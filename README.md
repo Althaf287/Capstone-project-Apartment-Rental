@@ -35,7 +35,8 @@ The dataset contains various features relevant to apartment rentals, including:
 - **Rental Price (Target Variable)**
 
 ### Data Source
-The dataset used in this project is sourced from the UCI Machine Learning Repository:
+The dataset used in this project is sourced from the UCI Machine Learning
+Repository:https://archive.ics.uci.edu/dataset/555/apartment+for+rent+classified
 Apartment for Rent Classified Dataset
 
 ### Exploratory Data Analysis (EDA)
@@ -68,10 +69,10 @@ The models were evaluated using the following metrics:
 - **MAE: 124.71 (Least average error)**
   
 ### Project Phases
-- **Phase 1: Data Collection (Source Code)**
-- **Phase 2: Exploratory Data Analysis (Notebook)**
-- **Phase 3: Model Development (Code)**
-- **Phase 4: Final Report & Predictions (Results)**
+- **Phase 1: Data Collection (Source code)**
+- **Phase 2: Exploratory Data Analysis (jupyter note)**
+- **Phase 3: Model Development (jupyter note)**
+- **Phase 4: Final Report & Predictions (jupyter note_Results)**
 
 ### Future Work
 - **Implement deep learning models for better accuracy.**
