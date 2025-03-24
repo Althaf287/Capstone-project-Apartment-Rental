@@ -6,7 +6,7 @@
 
 ### Project Overview
 
-This project aims to predict apartment rental prices based on various features such as location, square footage, number of bedrooms, and other relevant attributes. Using machine learning techniques, we develop a predictive model that assists renters and property managers in estimating fair rental prices.
+This project aims to predict apartment rental prices based on various features such as location, square feet, number of bedrooms, and other relevant attributes. Using machine learning techniques, we develop a predictive model that assists renters and property managers in estimating fair rental prices.
 
 ### Features & Objectives
 - **Develop an accurate machine learning model to predict rental prices.**
